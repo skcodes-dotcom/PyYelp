@@ -1,2 +1,2 @@
 # PyYelp
-Searching for business on Yelp.
+Searching for businesses on Yelp.
